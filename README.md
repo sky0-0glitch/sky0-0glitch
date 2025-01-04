@@ -9,10 +9,10 @@ ideas, I’m here for the journey—and the growth that comes with it.
 ## What I’m Building
 
 Right now, I’m crafting a portfolio that showcases my work and **expanding my knowledge**.
-My pride and joy? A **Weather App** built with React 🌤️—because who doesn’tlove
+My pride and joy? A **Weather App** built with React 🌤️—because who doesn’t love
 knowing if it’s sweater weather?
 
-## My Secret Sauce
+## What I Value
 
 I’m all about **mutual respect** and **collaboration**. Whether it’s debugging
 code or tackling big ideas, I believe great things happen when we work together.
